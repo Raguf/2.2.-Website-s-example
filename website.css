@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 3670px;
+}
+.season-image {
+  border: 1px solid black;
+  width: 100%;
+  height: 610px;
+  background-image: url(./images/Four-Seasons-Hotels-Resorts-Logo.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 3%;
+}
+.spring-image {
+  border: 1px solid white;
+  width: 100%;
+  height: 500px;
+  background-image: url(./images/spring-forward-in-faith-article_2_.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 3%;
+}
+.summer-image {
+  border: 1px solid rgb(60, 245, 23);
+  width: 100%;
+  height: 500px;
+  background-image: url(./images/nT8a6z.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 3%;
+}
+.autumn-image {
+  border: 1px solid rgb(245, 193, 23);
+  width: 100%;
+  height: 500px;
+  background-image: url(./images/French\ -\ Fall.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 3%;
+}
+.winter-image {
+  border: 1px solid rgb(6, 156, 243);
+  width: 100%;
+  height: 500px;
+  background-image: url(./images/photo-1610295434223-933f171af446.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 3%;
+}
